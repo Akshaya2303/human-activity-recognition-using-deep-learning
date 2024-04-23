@@ -1,0 +1,11 @@
+click
+Flask
+imutils
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+opencv-python
+Werkzeug
+matplotlib
+tensorflow

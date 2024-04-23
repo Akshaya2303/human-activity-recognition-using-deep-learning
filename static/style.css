@@ -1,0 +1,41 @@
+body{
+    background-color:#89d4e7;
+    background-image: url(focus.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1{
+    text-align:center;
+    color:#dd1111;
+    font-style:italic;  
+}
+table{
+    text-align:center;
+}   
+td{
+    padding:10px;
+}
+header {
+    height: 80px;
+    background-color:#35a8b8;
+}
+footer {
+    background-color: black;
+    clear: both;
+    height: 300px;
+    background-image:  url(footerbg.png);
+    background-position: 40% 30%;
+}
+.copyright {
+    color: #edfd11;
+    font-size: .9em;
+    text-align: center;
+    display: block;
+    padding-top: 15px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
